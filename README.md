@@ -2,8 +2,6 @@
 ## Language
 python
 
-## Requirement
-
 ## How to use
 #### 1. Run FindSimilarPage.py to find similar UIs for the target UI. 
 Input the path of the target UI, then the program will find UIs which are similar to the target UI from the UI repository folder, and output a file folder containing the target UI and its similar UIs.
@@ -17,5 +15,4 @@ The program is used to analyze the wireframes of the target UI and its similar U
 The APK files are available at https://pan.quark.cn/s/ba256c4eab80
 
 The way to download APK files is as follows:
-![1](https://github.com/Hylance1224/UiAnalyzer/assets/39308424/bafc5eba-dc51-4a5d-94a4-58dd1301ffe4)
-
+![1](https://github.com/Hylance1224/UiAnalyzer/assets/39308424/bb70ca7d-fa30-48f6-9b1c-3c42b3b62e74)
